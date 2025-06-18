@@ -9,4 +9,11 @@ h1 {
     width: 200px;
     color: white;
     background-color: blue;
+    vertical-align: center;
+    text-align: center;
+    padding: .375rem .75rem;
+    border: 1px solid ;
+    border-color: blue;
+    border-radius: .25rem;
+    font-size: 1rem;
 }
